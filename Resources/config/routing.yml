@@ -1,0 +1,3 @@
+p_danse_homepage:
+    path:     /
+    defaults: { _controller: PDanseBundle:Default:index }
